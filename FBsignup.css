@@ -1,0 +1,134 @@
+body
+{
+    background-color: rgba(209, 218, 224, 0.89);
+}
+.header
+{
+    padding-top: 18px;
+    display: flex;
+    background-color: #3b5998;
+    height: 70px;
+}
+.fb_logo
+{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 265px;
+    font-size: 360%;
+    font-weight: bolder;
+    color: white;
+}
+.etext
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-left: 400px;
+}
+.ptext
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-left: 30px;
+}
+.login
+{
+    margin-left: 30px;
+    margin-top: 18px;
+    background-color: rgb(22, 81, 190);
+    color: white;
+}
+.forgotten
+{
+    color: white;
+    font-size: 80%;    
+    text-decoration: none;
+}
+.forgotten:hover
+{
+    text-decoration: underline;
+}
+.login:hover
+{
+    cursor: pointer;
+    background-color: rgb(0, 42, 119);
+}
+#t1
+{
+    font-weight: bold;
+    font-size: 250%;
+}
+#t2
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 130%;
+}
+.form
+{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 550px;
+    margin-top: 50px;
+}
+.name
+{
+    margin-top: 10px;
+    border-radius: 5px;
+    border-color: grey;
+    border-width: 1px;
+    border-style: solid;
+    font-size: 110%;
+    width: 195px;
+    height: 25px;
+}
+.textbox
+{
+    margin-top: 10px;
+    border-radius: 5px;
+    border-color: grey;
+    border-width: 1px;
+    border-style: solid;
+    font-size: 110%;
+    width: 400px;
+    height: 25px;
+}
+#t3
+{
+    font-size: 80%;
+    margin-top: 15px;
+}
+.waste_link
+{
+    text-decoration: none;
+}
+.waste_link:hover
+{
+    text-decoration: underline;
+}
+.signup
+{
+    font-size: 120%;
+    font-weight: bold;
+    margin-top: 15px;
+    padding-left: 35px;
+    padding-right: 35px;
+    background-color: rgb(31, 163, 31);
+    color: white;
+    border-style: groove;
+    border-radius: 5px;
+}
+.signup:hover
+{
+    background-color: rgb(9, 231, 9);
+    cursor: pointer;
+}
+.date
+{
+    margin-top: 10px;
+}
+.gender
+{
+    margin-top: 10px;    
+}
+.t4
+{
+    margin-top: 120px;
+}

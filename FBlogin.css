@@ -1,0 +1,79 @@
+body
+{
+    background-color: rgba(209, 218, 224, 0.89);   
+}
+.form
+{
+    margin-left: 515px;
+    padding: 15px;
+    background-color: honeydew;
+    width: 350px;
+    border-style: solid;
+    border-color: rgba(221, 212, 212);
+    border-width: 2px;
+    border-radius: 10px; 
+}
+.email
+{
+    border-color: rgba(221, 212, 212);
+    border-radius: 5px;
+    border-width: 2px;
+    width: 330px;
+    padding: 8px;
+}
+.password
+{
+    border-color: rgb(221, 212, 212);
+    border-radius: 5px;
+    border-width: 2px;
+    width: 330px;
+    padding: 8px;
+}
+#login
+{
+    color: honeydew;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 120%;
+    height: 40px;
+    width: 350px;
+    background: #3b5998;
+}
+.text
+{
+    padding-bottom: 20px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 130%;
+    font-weight: 700;
+    margin-left: 82px;
+}
+.fblogo
+{
+    padding-bottom: 20px;
+    color: #3b5998;
+    font-weight: bold;
+    font-size: 330%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 585px;
+    margin-top: 100px;
+}
+.link
+{
+    color: #3b5998;
+    text-decoration: none;
+    margin-left: 25px;
+}
+.link:hover
+{
+    text-decoration: underline;
+}
+#login:hover
+{
+    cursor: pointer;
+    background: rgb(74, 133, 243);
+}
+.copyright
+{
+    margin-top: 245px;
+}
